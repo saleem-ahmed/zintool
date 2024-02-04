@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import SearchModal from "../components/SearchModal";
+import SearchModal from "./components/SearchModal";
 import Image from "next/image";
 import Logo from "@/public/logo.png";
 import SearchIcon from "@/public/search.svg";
