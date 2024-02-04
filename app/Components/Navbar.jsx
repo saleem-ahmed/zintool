@@ -55,7 +55,7 @@ const Navbar = () => {
             alt=""
           />
 
-          <h2 className="font-roboto text-2xl font-bold leading-9">ZinTool</h2>
+          <h2 className="font-roboto text-2xl font-extrabold leading-9">ZinTools</h2>
         </div>
         <span onClick={openSearch} className=" md:hidden">
           <Image width={0} height={0} src={SearchIcon} alt="" />
